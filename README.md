@@ -1,2 +1,8 @@
 # hello-world
-about me
+
+  aboutMe () {
+  
+    firstCode = googleAppScript;
+    nowLearning = [webDevelopment, electron];
+    
+  }
